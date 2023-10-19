@@ -1,0 +1,35 @@
+Base Building Assignment
+Assignment 
+
+1.What is internet? Explain in your own words.
+ In simple terms internet is the connection for all the system/applications throughout the world.
+Internet provides whole new world that is the virtual world. It has made human life way more easy. 
+
+2.What is  web  browser? Explain in your own words.
+A web browser provides access to websites.
+It is a application which gives link to the particular website. There are many web browsers for example.
+Google chrome , Firefox , bing ,internet explorer etc.
+ All these are the web browsers which gives access to various websites according to the search ( input ).
+ 
+3. What is a browser engine? Explain in your own words.
+A browser engine is a software which is installed in all the web browsers . basically it was developed at the time when websites started to use Java script codes for functioning. These browser engines helped to render the java script code easily. 
+Every web browser has its own browser engine. 
+For example ;
+Web browser      Browser engine 
+  Google                  Blink
+  Firefox                 Gecko
+  Safari                  Webkit
+  Internet explorer    Trident
+
+Etc…
+
+4. What is a static site? Explain in your own words.
+A static site is a website is a simple website with no complex functionalities. It is a simple site with less/limited functionality.
+As it provides limited functionality it is not flexible.
+Examples of static website can be a gym site , portfolios , brochures , landing pages etc. 
+
+5 . What is dynamic website? Explain in your own words.
+Dynamic site is a complex site with more functionalities and is dynamic in nature. A dynamic web site is flexible and has a data base for handling all the functions.
+A dynamic website provides User interaction .
+Unlike static site , it is costly to implement .
+
